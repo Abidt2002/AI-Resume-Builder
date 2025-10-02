@@ -75,34 +75,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📦 Step 4: Add `requirements.txt`
 
-Here’s a tailored one for resume app:  
-
-```txt
-# Core ML/NLP
-torch>=2.0.0
-transformers>=4.35.0
-sentence-transformers>=2.2.2
-langchain>=0.2.0
-chromadb>=0.5.0
-
-# Resume parsing & docs
-python-docx
-pypdf2
-pdfplumber
-
-# Data handling
-numpy
-pandas
-scikit-learn
-
-# UI
-streamlit
-gradio
-
-# Utils
-tqdm
-python-dotenv
-
-Download your new resume in PDF/DOCX format.
